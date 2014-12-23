@@ -2,6 +2,7 @@
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<File name="GTS_AI\GTS_Instruction\GTS_Wait\GTS_Wait.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="152" topLine="0" />
@@ -149,6 +150,8 @@
 		<Cursor>
 			<Cursor1 position="992" topLine="0" />
 =======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 	<File name="GTS_Texture\GTS_Texture.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="138" topLine="0" />
@@ -165,7 +168,10 @@
 	<File name="GTS_AI\GTS_Instruction\GTS_Instruction.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="107" topLine="0" />
+<<<<<<< HEAD
 >>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 		</Cursor>
 	</File>
 	<File name="GTS_Button\GTS_Button.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -207,6 +213,7 @@
 		</Folding>
 	</File>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<File name="GTS_Location\GTS_Location.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="1097" topLine="27" />
@@ -242,6 +249,8 @@
 		</Folding>
 	</File>
 =======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterAnimations\GTS_CharacterAnimations.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="443" topLine="0" />
@@ -294,7 +303,10 @@
 			<Cursor1 position="84" topLine="0" />
 		</Cursor>
 	</File>
+<<<<<<< HEAD
 >>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 	<File name="GTS_Map\GTS_Map.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="232" topLine="0" />
@@ -307,6 +319,7 @@
 			<Collapse line="36" />
 		</Folding>
 	</File>
+<<<<<<< HEAD
 <<<<<<< HEAD
 	<File name="GTS_Pawn\GTS_Pawn.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
@@ -455,6 +468,8 @@
 			<Collapse line="93" />
 		</Folding>
 =======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 	<File name="GTS_Texture\GTS_Texture.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="4792" topLine="68" />
@@ -644,6 +659,7 @@
 			<Cursor1 position="235" topLine="0" />
 		</Cursor>
 	</File>
+<<<<<<< HEAD
 	<File name="GTS_Grid\GTS_Grid.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="147" topLine="0" />
@@ -866,6 +882,65 @@
 		<Cursor>
 			<Cursor1 position="110" topLine="0" />
 =======
+=======
+	<File name="GTS_Grid\GTS_Grid.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="147" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Resource\GTS_Resource.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="25" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Window\GTS_Window.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5513" topLine="41" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="33" />
+			<Collapse line="44" />
+			<Collapse line="53" />
+			<Collapse line="60" />
+			<Collapse line="68" />
+			<Collapse line="70" />
+			<Collapse line="72" />
+			<Collapse line="78" />
+			<Collapse line="84" />
+			<Collapse line="89" />
+			<Collapse line="96" />
+			<Collapse line="101" />
+			<Collapse line="107" />
+			<Collapse line="113" />
+			<Collapse line="120" />
+			<Collapse line="125" />
+			<Collapse line="131" />
+			<Collapse line="138" />
+			<Collapse line="144" />
+			<Collapse line="159" />
+			<Collapse line="163" />
+			<Collapse line="185" />
+			<Collapse line="189" />
+			<Collapse line="203" />
+			<Collapse line="206" />
+			<Collapse line="210" />
+			<Collapse line="215" />
+			<Collapse line="217" />
+			<Collapse line="221" />
+			<Collapse line="227" />
+			<Collapse line="230" />
+			<Collapse line="234" />
+			<Collapse line="245" />
+			<Collapse line="257" />
+			<Collapse line="263" />
+			<Collapse line="283" />
+			<Collapse line="293" />
+			<Collapse line="300" />
+			<Collapse line="309" />
+		</Folding>
+	</File>
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_Character.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="2228" topLine="39" />
@@ -1055,7 +1130,10 @@
 	<File name="GTS_AI\GTS_PathFinder\GTS_PathFinder.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="746" topLine="0" />
+<<<<<<< HEAD
 >>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 		</Cursor>
 	</File>
 	<File name="GTS_Resource\GTS_TestResource.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -1073,6 +1151,7 @@
 			<Collapse line="84" />
 		</Folding>
 	</File>
+<<<<<<< HEAD
 <<<<<<< HEAD
 	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterFeatures\GTS_CharacterFeatures.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
@@ -1180,6 +1259,8 @@
 			<Collapse line="250" />
 			<Collapse line="258" />
 =======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 	<File name="GTS_Resource\GTS_TestButtons.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="466" topLine="0" />
@@ -1333,7 +1414,10 @@
 			<Collapse line="21" />
 			<Collapse line="28" />
 			<Collapse line="33" />
+<<<<<<< HEAD
 >>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 		</Folding>
 	</File>
 	<File name="GTS_State\GTS_State.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -1348,6 +1432,7 @@
 		</Folding>
 	</File>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<File name="GTS_AI\GTS_Instruction\GTS_Sequence\GTS_Sequence.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="235" topLine="0" />
@@ -1360,6 +1445,8 @@
 		<Folding>
 			<Collapse line="34" />
 =======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterAbilities\GTS_CharacterAbilities.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="140" topLine="0" />
@@ -1377,7 +1464,10 @@
 			<Collapse line="24" />
 			<Collapse line="26" />
 			<Collapse line="49" />
+<<<<<<< HEAD
 >>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 		</Folding>
 	</File>
 	<File name="GTS_State\GTS_State.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -1397,6 +1487,7 @@
 			<Collapse line="43" />
 		</Folding>
 	</File>
+<<<<<<< HEAD
 <<<<<<< HEAD
 	<File name="GTS_Game\GTS_Game.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
@@ -1433,6 +1524,8 @@
 		<Cursor>
 			<Cursor1 position="235" topLine="0" />
 =======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 	<File name="GTS_AI\GTS_AI.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="847" topLine="0" />
@@ -1445,7 +1538,10 @@
 	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterAbilities\GTS_CharacterAbilities.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="305" topLine="0" />
+<<<<<<< HEAD
 >>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 		</Cursor>
 	</File>
 	<File name="GTS_State\GTS_TestState.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -1453,6 +1549,7 @@
 			<Cursor1 position="194" topLine="0" />
 		</Cursor>
 	</File>
+<<<<<<< HEAD
 <<<<<<< HEAD
 	<File name="GTS_AI\GTS_Instruction\GTS_Task\GTS_Task.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
@@ -1472,6 +1569,8 @@
 			<Collapse line="17" />
 			<Collapse line="34" />
 =======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 	<File name="GTS_AI\GTS_Instruction\GTS_Instruction.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="60" topLine="0" />
@@ -1502,7 +1601,10 @@
 			<Collapse line="128" />
 			<Collapse line="130" />
 			<Collapse line="142" />
+<<<<<<< HEAD
 >>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 		</Folding>
 	</File>
 	<File name="GTS_OBJ\GTS_Object\GTS_Object.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -1513,6 +1615,7 @@
 			<Collapse line="50" />
 		</Folding>
 	</File>
+<<<<<<< HEAD
 <<<<<<< HEAD
 	<File name="GTS_Text\GTS_Text.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
@@ -1547,6 +1650,8 @@
 		</Cursor>
 	</File>
 =======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 	<File name="GTS_Button\GTS_Button.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="2434" topLine="36" />
@@ -1557,5 +1662,8 @@
 			<Collapse line="32" />
 		</Folding>
 	</File>
+<<<<<<< HEAD
 >>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
 </CodeBlocks_layout_file>
